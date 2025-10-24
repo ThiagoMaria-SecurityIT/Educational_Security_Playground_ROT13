@@ -15,7 +15,7 @@ Imagine you have a secret code where each letter in your message gets replaced b
 > - Think of it like writing in a special font that's harder to read - anyone who knows the trick can easily read it!
 > - That's why both "Encrypt" and "Decrypt" buttons do the exact same thing! 🎭  
 
-## 🚀 Quick Start Guide
+## 🚀 Quick Start Guide  
 
 ### Step 1: Get the Code 📥
 - Click the green "Code" button above
