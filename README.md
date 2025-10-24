@@ -143,7 +143,7 @@ Test your knowledge about ROT13 and security concepts! 🧠
     D) It needs special equipment  
 
 > [!TIP]
-> See the the answers [here](Quiz_Answers.md):  
+> See the answers [here](Quiz_Answers.md):  
 
 ---
 
