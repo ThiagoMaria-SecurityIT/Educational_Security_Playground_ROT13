@@ -2,7 +2,8 @@
 
 "A playful Python application that teaches why obfuscation isn't encryption and shouldn't protect real data."  
 
-![](images/rot13image.png)  
+<img width="792" height="620" alt="image" src="https://github.com/user-attachments/assets/36f8cc43-7b92-4b48-a0a0-1096319d3eab" />  
+
 
 ## 🎯 What is ROT13?  
 
