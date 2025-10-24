@@ -1,9 +1,10 @@
 # 🎮 Educational Security Playground ROT13
 
-"A playful Python application that teaches why obfuscation isn't encryption and shouldn't protect real data."
+"A playful Python application that teaches why obfuscation isn't encryption and shouldn't protect real data."  
 
+![](rot13image.png)  
 
-## 🎯 What is ROT13?
+## 🎯 What is ROT13?  
 
 Imagine you have a secret code where each letter in your message gets replaced by the letter 13 positions away in the alphabet. That's ROT13! 🔄
 
@@ -141,7 +142,7 @@ Test your knowledge about ROT13 and security concepts! 🧠
     D) It needs special equipment  
 
 > [!TIP]
-> See the the answers here:
+> See the the answers [here](Quiz_Answers.md):  
 
 ---
 
